@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 Eu estou aprendendo programação!
-![Literalmente eu!](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbigbizang.blogspot.com%2F2019%2F06%2Fo-teorema-do-macaco-infinito.html&psig=AOvVaw0N6ONknS2pQPmCYGWV-gFq&ust=1745452246708000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICInb_q7IwDFQAAAAAdAAAAABAE)
+![Literalmente eu!](![o-teorema-do-macaco-infinito](https://github.com/user-attachments/assets/9594556d-70d6-4726-b035-8c1451a6762d)
+)
 <!--
 **Eddscafe/Eddscafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
