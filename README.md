@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 Eu estou aprendendo programação!
-![Literalmente eu!](![o-teorema-do-macaco-infinito](https://github.com/user-attachments/assets/9594556d-70d6-4726-b035-8c1451a6762d)
+![Literalmente eu!](![monkeychamp](https://github.com/user-attachments/assets/db0b5f86-a7ca-495a-ade7-e20603ef063d)
+)
 )
 <!--
 **Eddscafe/Eddscafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
