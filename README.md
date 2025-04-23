@@ -1,11 +1,9 @@
 ## Olá sou Eduardo Sousa, viciado em cafeína👋
 
-Eu estou aprendendo programação!
+
 
 
 ![Literalmente eu!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeCXzQcs-RI-69zSAONFN3JwJeKLUGNuoWOw&s)
-
-Eu digitando!
 
 Minhas redes sociais:
 
