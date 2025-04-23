@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Eu estou aprendendo programação!
-![Literalmente eu!](![monkeychamp](https://github.com/user-attachments/assets/db0b5f86-a7ca-495a-ade7-e20603ef063d)
+![Literalmente eu!](./caminho/para/![monkeychamp](https://github.com/user-attachments/assets/db0b5f86-a7ca-495a-ade7-e20603ef063d)
 )
 )
 <!--
