@@ -1,9 +1,9 @@
-## Hi there 👋
+## Olá sou Eduardo Sousa, viciado em cafeína👋
 
 Eu estou aprendendo programação!
 
 
-![Literalmente eu!](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiJk5y0DpnJDyxDsM_TH4Mz6qPMFgHL8i5rPxPF-CT9xSvO75ZFZPkP0X3iC29pRF7Q8XjPu-Z95Obl1Su0grt13g3Gq7hoE8sUx4SvZ6_pdj4xAlNofDJzOMgypblR2rEsqHQHxAtvIE0/s400/INFINITYMONKEY03.jpg)
+![Literalmente eu!]()
 
 Eu digitando!
 
